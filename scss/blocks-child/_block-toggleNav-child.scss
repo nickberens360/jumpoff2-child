@@ -1,0 +1,32 @@
+/* scss/blocks-child/_block-toggleNav-child.scss */
+
+.page_home {
+  .header-toggleNav__logo {
+    display: none;
+  }
+
+  .block-core-group {
+    padding: 0;
+    .block-core-shortcode {
+      max-width: 100%;
+    }
+  }
+
+}
+
+
+.toggleMenuWrap {
+  ul.toggleNav {
+    a {
+      color: get-color('gray-2');
+      font-size: 24px;
+      &:after {
+        content: "";
+        width: 40px;
+        height: 4px;
+        background: get-color('orange');
+        display: block;
+      }
+    }
+  }
+}

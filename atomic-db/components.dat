@@ -1,0 +1,34 @@
+[
+    {
+        "component": "atomic-head",
+        "category": "atomicHead",
+        "description": "",
+        "backgroundColor": "",
+        "order": -22,
+        "has_js": "false"
+    },
+    {
+        "component": "colors",
+        "category": "siteColors",
+        "description": "",
+        "backgroundColor": "",
+        "order": 0,
+        "has_js": "false"
+    },
+    {
+        "component": "block-toggleNav-child",
+        "category": "blocks-child",
+        "description": "",
+        "backgroundColor": "",
+        "order": -1,
+        "has_js": "false"
+    },
+    {
+        "component": "imports",
+        "category": "imported-scss",
+        "description": "",
+        "backgroundColor": "",
+        "order": -2,
+        "has_js": "false"
+    }
+]

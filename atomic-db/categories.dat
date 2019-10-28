@@ -1,0 +1,18 @@
+[
+    {
+        "category": "atomicHead",
+        "order": 1
+    },
+    {
+        "category": "siteColors",
+        "order": 2
+    },
+    {
+        "category": "blocks-child",
+        "order": 3
+    },
+    {
+        "category": "imported-scss",
+        "order": 0
+    }
+]
