@@ -307,6 +307,38 @@
 /** Pull a color from the color map **/
 /* scss/atomicHead/_atomic-head.scss */
 /* scss/siteColors/_colors.scss */
+body.single-product {
+  padding-top: 149px;
+}
+
+body.single-product:before {
+  content: "";
+  height: 149px;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: #2f3e43;
+  position: absolute;
+}
+
+body.single-product .product {
+  max-width: 1200px;
+  margin: auto;
+  padding: 100px 15px;
+}
+
+body.single-product div.product form.cart div.quantity {
+  display: block;
+  float: none;
+  margin-bottom: 10px;
+}
+
+.woocommerce {
+  max-width: 1200px;
+  margin: auto;
+  padding: 100px 15px;
+}
+
 /* scss/blocks-child/_block-toggleNav-child.scss */
 .page_home .header-toggleNav__logo {
   display: none;
